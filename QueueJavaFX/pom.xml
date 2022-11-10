@@ -34,7 +34,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.0</version>
 				<configuration>
-					<release>16</release>
+					<release>17</release>
 				</configuration>
 			</plugin>
 
@@ -55,7 +55,7 @@
 	<properties>
 
 		<!-- Generic properties -->
-		<java.version>1.16</java.version>
+		<java.version>1.17</java.version>
 		<JavaFX.Version>16</JavaFX.Version>
 		<JavaFX.Platform>win</JavaFX.Platform>
 		<!-- <JavaFX.Platform>mac</JavaFX.Platform> -->
